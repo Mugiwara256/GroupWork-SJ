@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme{
+    --breakpoint-mobile: 510px;
+}
+@theme {
+    --font-family-sans: system-ui, -apple-system, sans-serif;
+}
